@@ -1,2 +1,2 @@
 # album-angular
-A project to test Angular
+A project Angular
